@@ -1,4 +1,14 @@
-# Original instructions: Ruby Racer: Outrageous Fortune
+
+# To play
+First clone this repo and install Ruby the Ruby gem pry.
+
+In the terminal, start by typing:
+ruby runner.rb
+Then follow the prompts.
+
+Have fun!
+
+# ORIGINAL INSTRUCTIONS FOR THE CHALLENGE - Ruby Racer: Outrageous Fortune
 
 ## Summary
 ![ruby race example gif](readme-assets/ruby-racer-example.gif)
